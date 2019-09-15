@@ -51,7 +51,9 @@ Looking forward to hearing and collaborating with you soon.
   * OpenCV
   * matplotlib
   * scikit-learn
-  
+  * plotly
+  * statsmodels
+  * NLTK
   
 ### FrameWorks 
   * TensorFlow
