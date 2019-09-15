@@ -1,7 +1,7 @@
 
 ## Objective
 
-  Hi there :), My name is Han. I am a Junior class student and working toward my bachelor’s degree in Computer Science with   heavy emphasis on machine learning and deep learning fields. I am seeking an internship opportunities for summer 2020 (3     months period) in Japan.
+  Hi there :), My name is Han. I am a Junior class student(will be senior class in February 2020) and working toward my bachelor’s degree in Computer Science with   heavy emphasis on machine learning and deep learning fields. I am seeking an internship opportunities for summer 2020 (3     months period) in Japan.
 
 Looking forward to hearing and collaborating with you soon.
 
@@ -11,10 +11,10 @@ Looking forward to hearing and collaborating with you soon.
 
   **Summer Internship**      June 2018 – August 2018 (40 days)
 
-  * Machine Learning Engineer Assistant
+  * Machine Learning Engineer Intern
 
 ### [Datateam Information Technologies](http://www.datateam.com.tr/en/home/)
-  **Summer Internship**      August 2019 - September 2019(25 days)
+  **Summer Internship**      August 2019 - September 2019 (25 days)
   
   * Software Engineer Intern
 
@@ -57,6 +57,9 @@ Looking forward to hearing and collaborating with you soon.
   * TensorFlow
   * PyTorch
   * Keras
+  * Apache Spark
+  * Apache Hadoop
+  * Apache Kafka
   
   
 ### Certifications 
