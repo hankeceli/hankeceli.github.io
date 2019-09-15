@@ -9,24 +9,29 @@ Looking forward to hearing and collaborating with you soon.
 
 ### [SPP42](https://spp42.com/)
 
-  **Summer Internship**      Jun 2018 – August 2018 (40 days)
+  **Summer Internship**      June 2018 – August 2018 (40 days)
 
   * Machine Learning Engineer Assistant
 
+### [Datateam Information Technologies](http://www.datateam.com.tr/en/home/)
+  **Summer Internship**      August 2019 - September 2019(25 days)
+  
+  * Software Engineer Intern
 
 
 ## Computer Skills and Certifications
 
-### Programming Languages 
+### Programming Skills 
   * C/C++
-  * R
-  * Python
-  * GNU Octave
-  * PC-BASIC  
-  * C#
   * Java
+  * Python
+  * R
+  * GNU Octave  
+  * C#
   * Haskell
+  * Javascript
   * Prolog
+  * Scala
   
 ### Web Development 
   * HTML
@@ -34,6 +39,7 @@ Looking forward to hearing and collaborating with you soon.
   * PHP
   
 ### Database Tools 
+  * SQL
   * PostreSQL
   * MongoDB
   * MS SQL Server
@@ -44,11 +50,13 @@ Looking forward to hearing and collaborating with you soon.
   * Pandas
   * OpenCV
   * matplotlib
+  * scikit-learn
   
   
 ### FrameWorks 
   * TensorFlow
   * PyTorch
+  * Keras
   
   
 ### Certifications 
