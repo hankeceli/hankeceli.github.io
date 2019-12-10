@@ -68,7 +68,7 @@ Looking forward to hearing and collaborating with you soon.
   * [Artificial Intelligence A-ZTM: Learn How To Build An AI on Udemy](https://www.udemy.com/certificate/UC-FMRA52F7/)
   * [Intro to Python for Data Science Course on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/398f45feab54b260d3dc2548c8b05b76a1b0ec92)
   * [Machine Learning by Stanford University on Coursera](https://www.coursera.org/account/accomplishments/verify/HAWD4WP4XTQH)
-  * [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/specializations/deep-learning)
+  * [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/MCVW6N38CV5E)
   
   
 ## Languages
