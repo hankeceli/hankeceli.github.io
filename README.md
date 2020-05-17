@@ -1,7 +1,7 @@
 
 ## Objective
 
-  Hi there :), My name is Han. I am a Junior class student(will be senior class in February 2020) and working toward my bachelor’s degree in Computer Science with   heavy emphasis on machine learning and deep learning fields. I am seeking an internship opportunities for summer 2020 (3     months period) in Japan.
+  Hi there :), My name is Han. I am a Senior year student and working toward my bachelor’s degree in Computer Science with heavy emphasis on machine learning and deep learning fields. I'm currently focusing on Machine Learning, Deep Neural Networks and Self-Driving Car researching. I will be looking for new graduate position in 2021 june.
 
 Looking forward to hearing and collaborating with you soon.
 
