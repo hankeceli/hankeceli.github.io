@@ -69,6 +69,7 @@ Looking forward to hearing and collaborating with you soon.
   * [Intro to Python for Data Science Course on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/398f45feab54b260d3dc2548c8b05b76a1b0ec92)
   * [Machine Learning by Stanford University on Coursera](https://www.coursera.org/account/accomplishments/verify/HAWD4WP4XTQH)
   * [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/MCVW6N38CV5E)
+  * [Introduction to Scala on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/34c6413533efe44ea41b58eee78f7c700563340d)
   
   
 ## Languages
