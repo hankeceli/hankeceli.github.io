@@ -7,18 +7,17 @@ Looking forward to hearing and collaborating with you soon.
 
 ## Professional Experience
 
-### [SPP42](https://spp42.com/)
-
-  **Summer Internship**      June 2018 – August 2018 (40 days)
-
-  * Machine Learning Engineer Intern
-
 ### [Datateam Information Technologies](http://www.datateam.com.tr/en/home/)
   **Summer Internship**      August 2019 - September 2019 (25 days)
   
   * Software Engineer Intern
 
+### [SPP42](https://spp42.com/)
 
+  **Summer Internship**      June 2018 – August 2018 (40 days)
+
+  * Machine Learning Engineer Intern
+  
 ## Computer Skills and Certifications
 
 ### Programming Skills 
