@@ -69,6 +69,8 @@ Looking forward to hearing and collaborating with you soon.
   * [Machine Learning by Stanford University on Coursera](https://www.coursera.org/account/accomplishments/verify/HAWD4WP4XTQH)
   * [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/MCVW6N38CV5E)
   * [Introduction to Scala on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/34c6413533efe44ea41b58eee78f7c700563340d)
+  * [Machine Learning Crash Course Mentorship Program on Google](https://verified.cv/en/verify/995498515093)
+  * [Introduction to Git on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/ad8961931c8a58440e3b4ea30e64fdfcd9c7f475)
   
   
 ## Languages
