@@ -69,6 +69,7 @@ Looking forward to hearing and collaborating with you soon.
   * [Machine Learning by Stanford University on Coursera](https://www.coursera.org/account/accomplishments/verify/HAWD4WP4XTQH)
   * [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/MCVW6N38CV5E)
   * [AI For Everyone by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/records/BM5H6Q2QUFJZ)
+  * [Applied Data Science and Machine Learning Bootcamp by Kodluyoruz Academy](https://www.kodluyoruz.org/event/veribilimi-makineogrenmesi-ankara/)
   * [Introduction to Scala on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/34c6413533efe44ea41b58eee78f7c700563340d)
   * [Machine Learning Crash Course Mentorship Program by Google Developers](https://verified.cv/en/verify/995498515093)
   * [Introduction to Git on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/ad8961931c8a58440e3b4ea30e64fdfcd9c7f475)
