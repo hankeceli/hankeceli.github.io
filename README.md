@@ -8,7 +8,7 @@ Looking forward to hearing and collaborating with you soon.
 ## Professional Experience
 
 ### [Ford Otosan](https://www.fordotosan.com.tr/)
-  **Summer Internship**      July 2020 - Present
+  **Summer Internship**      July 2020 - September 2020
   
   * AI Research Scientist 
 
@@ -75,6 +75,7 @@ Looking forward to hearing and collaborating with you soon.
   * [Self-Driving Cars Specialization by University of Toronto Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/FZR9JNGMUJ8F)
   * [Studying at Japanese Universities by The University of Tokyo on Coursera](https://www.coursera.org/account/accomplishments/certificate/QQQC3Z6NA6HS)
   * [DeepLearning.AI TensorFlow Developer by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/QTMT62MLY88Z)
+  * [Generative Adversarial Networks (GANs) Specialization by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/8GSN7VYBYXHC)
   * [Applied Data Science and Machine Learning Bootcamp by Kodluyoruz Academy](https://www.kodluyoruz.org/event/veribilimi-makineogrenmesi-ankara/)
   * [Intro to Python for Data Science Course on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/398f45feab54b260d3dc2548c8b05b76a1b0ec92)
   * [Introduction to Scala on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/34c6413533efe44ea41b58eee78f7c700563340d)
